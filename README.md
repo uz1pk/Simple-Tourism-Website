@@ -1,2 +1,2 @@
-# Simple-Tourism-Website
-A simple tourism website hosted/used locally using only HTML and CSS
+# Simple-Japanese-Tourism-Website
+A simple japanese tourism website hosted/used locally using only HTML and CSS
